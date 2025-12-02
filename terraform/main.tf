@@ -5,11 +5,11 @@ resource "aws_s3_account_public_access_block" "block_all_public" {
   restrict_public_buckets  = true
 }
 
-resource "aws_s3_bucket" "this1" {
-  bucket = "my-example-bucket-12390"
+resource "aws_s3_bucket" "slkoeyyrry" {
+  bucket = "osfkdfkdkkfkf"
 
   tags = {
-    Name        = "my-example-bucket-qa9338"
+    Name        = "yjmrpokjn"
     Environment = "dev"
   }
 }
